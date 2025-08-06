@@ -64,6 +64,7 @@ webpackChunkdiscord_app.push([[Symbol()],{},r=>{t=Object.values(r.c||{}).find(x=
 8. Press **Enter** and copy the token output
 
 ✅ That’s your token
+Copy it and paste it into the field where needed (e.g. /redeem credits).
 
 ## ⚠️ Disclaimer
 
